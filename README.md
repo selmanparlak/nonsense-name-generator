@@ -7,4 +7,6 @@ npm i
 node index.js
 or
 nodemon index.js
+
+localhost:3000
 ```
